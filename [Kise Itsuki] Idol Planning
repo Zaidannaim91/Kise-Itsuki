@@ -1,0 +1,25 @@
+{
+   "title":"[Kise Itsuki] Idol Planning",
+   "description":"",
+   "author":"Momoduki Suzu",
+   "artist":"Momoduki Suzu",
+   "cover":"https://i.imgur.com/HJQwl2B.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RJjKHP9"
+         },
+         "last_updated":1624606143,
+         "title":"Idol Planning",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/CYdV8zf"
+         },
+         "last_updated":1624606143,
+         "title":"Idol Planning - Epilogue",
+         "volume":"2"
+      }
+   }
+}
